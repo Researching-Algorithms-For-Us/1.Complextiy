@@ -5,6 +5,8 @@
 
 밀레니엄 난제인 P = NP 문제의 의미가 여기에서 나옴. (모든 Compute Problem들이, 선형시간내에 해결가능하나의 문제)
 
+[바킹독 강좌 - 기초 코드 작성 요령 I CPP Style ](http://www.youtube.com/watch?v=9MMKsrvRiw4)
+
 ## Big-O Notation
 
 > 알고리즘 성능 평가 방법 중 가장 많이 사용되는 방법,  최고의 성능과 최악의 성능을 측정하는 방법
